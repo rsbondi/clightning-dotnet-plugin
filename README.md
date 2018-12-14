@@ -1,9 +1,3 @@
-## Running code as shell
+This was created for help with an issue developing the plugin, it has been resolved
 
-Here I put in the requests and get the expected response.
-![run build from shell](shell.gif)
-
-## Running the actual plugin
-
-Here it just hangs when I give the command, then I give bad json in shell terms and you can see the passthrough is working by the error but there is a disconnect somewhere.
-![run build against clightning as plugin](cl.gif)
+Maybe this can help as a reference for anyone going this route.
